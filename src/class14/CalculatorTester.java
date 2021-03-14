@@ -10,6 +10,12 @@ public class CalculatorTester {
 		
 		double results=calculator.sub(15.3, 34.5);
 		System.out.println(results);
+		
+		double result2=calculator.div(15.3, 34.5);
+		System.out.println(result2);
+		
+		//double result1=calculator.mult(15.3, 34.5);
+		System.out.println(calculator.mult(15.3, 34.5));
 	}
 
 }
