@@ -1,0 +1,13 @@
+name.equals("");
+name.contains("");
+name.toLowerCase();
+name.toUpperCase();
+nmae.equlsIgnoreCase();
+name.length();
+name.startWith();
+name.endWith();
+name.trim();
+name.isEmpty();
+name.charAt();
+name.indexOf();
+name.substring(n,m);//name.substring(n);
